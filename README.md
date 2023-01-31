@@ -60,14 +60,14 @@
 
 ###
 
-<br clear="both">
+<h3>Code Wars</h3>
 
 <img align="left" height="31" src="https://www.codewars.com/users/adolfo92/badges/large"  />
 
 ###
 
 <br clear="both">
-
+<h3>Google certificate IT</h3>
 <div align="left">
   <a href="https://www.credly.com/badges/2039b464-0b71-43f1-add2-4b26dd2e564c/public_url">
   <img height="110" src="https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png"  />
@@ -79,7 +79,7 @@
 <br clear="both">
 <br clear="both">
 <br clear="both">
-
+<h2 align="left">GH info</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=adolfo92" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=adolfo92" height="150" alt="languages graph"  />
