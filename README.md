@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Student of Telecom Engineering from Venezuela with a passion for front-end development and a strong interest in back-end development as well. I'm currently focusing on learning JavaScript and have experience with nodeJS and ReactJS.<br><br>I'm eager to gain more hands-on experience in the industry and am looking for a junior dev or internship position to do so.</p>
+<p align="left">I'm a Student of Telecom Engineering from Venezuela with a passion for front-end web development and a strong interest in back-end development as well. I'm currently focusing on learning JavaScript and have experience with nodeJS and ReactJS.<br><br>I'm eager to gain more hands-on experience in the industry and am looking for a junior dev or internship position to do so.</p>
 
 ###
 
