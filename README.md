@@ -42,11 +42,6 @@
 ###
 
 
-
-</br>
-</br>
-
-
 <h2 align="left">Learning in the near future</h2>
 
 
